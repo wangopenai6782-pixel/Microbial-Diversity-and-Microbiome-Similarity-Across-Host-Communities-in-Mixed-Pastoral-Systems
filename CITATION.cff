@@ -1,0 +1,8 @@
+﻿cff-version: 1.2.0
+title: "Code for reproducing manuscript analyses"
+authors:
+  - family-names: "Wang"
+    given-names: "Linglong"
+year: 2026
+message: "If you use this code, please cite the associated paper."
+license: MIT
